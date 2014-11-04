@@ -1,4 +1,4 @@
-package indi.jackc.relev.nativebayes;
+package indi.jackc.classification.nativebayes;
 
 import java.io.BufferedReader;
 import java.io.File;
